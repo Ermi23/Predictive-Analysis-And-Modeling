@@ -13,3 +13,4 @@ jupyter
 ipython
 pyod
 pmdarima
+tensorflow
