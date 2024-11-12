@@ -12,3 +12,4 @@ scikit-plot
 jupyter
 ipython
 pyod
+pmdarima
