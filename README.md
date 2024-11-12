@@ -62,7 +62,7 @@ This project implements a time series forecasting model for Tesla (TSLA), Vangua
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-forecasting-and-optimization.git
+   git clone https://github.com/Ermi23/Stock-Price-Forecasting-and-Portfolio-Optimization.git
    cd stock-forecasting-and-optimization
    ```
 2. Install dependencies:
